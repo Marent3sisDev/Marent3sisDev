@@ -2,7 +2,27 @@
 # Hello, I'm Marentesis 👋
 
 ## About Me
-I'm a passionate **Software Engineer** with a focus on **artificial intelligence** and **cross-platform mobile application development**. I love creating innovative solutions and working on projects that challenge me to grow and learn new technologies.
+
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Luiz Lopez"
+        self.role = "Software Engineer"
+        self.language_spoken = ["es_ES", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
