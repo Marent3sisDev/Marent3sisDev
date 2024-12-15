@@ -26,10 +26,10 @@ Here are a few of my recent projects:
 - **Project 2**: A machine learning model for **image recognition** using **TensorFlow** and **Keras**.
 
 ## Get in Touch
-- 📧 Email: marentesis@example.com
-- 💻 [LinkedIn](https://www.linkedin.com/in/marentesis)
-- 🐦 [Twitter](https://twitter.com/marentesis)
+- 📧 Email: marentesis@proton.me
+- 💻 [LinkedIn](https://www.linkedin.com/in/luiz-lopez-marentes-90b721325/)
+
 
 ## My GitHub Stats
-![Marentesis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marentesis&show_icons=true&count_private=true&theme=radical)
+![Marentesis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marent3sisDev&show_icons=true&count_private=true&theme=dark)
 
