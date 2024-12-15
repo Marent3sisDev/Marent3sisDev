@@ -1,18 +1,25 @@
 
+# Hello, I'm Marentesis 👋
 
-<!--
-**Marent3sisDev/Marent3sisDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate **Software Engineer** with a focus on **artificial intelligence** and **cross-platform mobile application development**. I love creating innovative solutions and working on projects that challenge me to grow and learn new technologies.
 
-Here are some ideas to get you started:
+- 🚀 **Languages**: Python, JavaScript, Dart, Java, C++
+- 📱 **Mobile Development**: Flutter, React Native
+- 🤖 **AI & ML**: TensorFlow, Keras, PyTorch
+- 🌐 **Web Development**: Node.js, Express, React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Here are a few of my recent projects:
 
-[![Profile Image](img.webp)](https://tu-enlace.com)
+- **Project 1**: A cross-platform mobile app built with **Flutter** that helps users track their daily habits.
+- **Project 2**: A machine learning model for **image recognition** using **TensorFlow** and **Keras**.
+
+## Get in Touch
+- 📧 Email: marentesis@example.com
+- 💻 [LinkedIn](https://www.linkedin.com/in/marentesis)
+- 🐦 [Twitter](https://twitter.com/marentesis)
+
+## My GitHub Stats
+![Marentesis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marentesis&show_icons=true&count_private=true&theme=radical)
+
